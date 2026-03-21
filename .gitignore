@@ -44,6 +44,7 @@ logs/
 # ---------------------------
 data/raw/
 data/processed/
+data/intermediate/
 
 # ---------------------------
 # Vector Databases
