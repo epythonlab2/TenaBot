@@ -1,0 +1,14 @@
+langchain
+langchain-text-splitters
+langchain-community
+sentence-transformers
+faiss-cpu
+transformers
+accelerate
+pypdf
+fastapi
+uvicorn
+streamlit
+tqdm
+pytest
+flake8

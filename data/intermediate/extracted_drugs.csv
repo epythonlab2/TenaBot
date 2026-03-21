@@ -1,0 +1,502 @@
+s_no,generic_name,dosage,category
+1,Aluminum Hydroxide + Magnesium Hydroxide + Simethicone,"Suspension, (225mg + 200mg + 25mg)/5ml | Chewable tablet 200mg + 200mg + 25mg",GI.100 Antacids
+2,Aluminum Hydroxide + Magnesium Trisilicate,"Tab2let (chewable), 120mg + 250 mg",GI.100 Antacids
+1,Cimetidine,"Injection, 200mg/ml in 2ml ampoule",GI.200 Antiulcer agents
+2,Omeprazole,Tablet/Capsule: 10 mg; 20 mg; | Powder for injection: 40 mg in vial | Powder for oral liquid: 20 mg; 40 mg sachets,GI.200 Antiulcer agents
+3,Ranitidine,"Tablet, 150 mg | Injection: 25 mg/ mL (as hydrochloride) in 2- mL | ampoule. | Oral liquid: 75 mg/5 mL (as hydrochloride). | Tablet: 150 mg (as hydrochloride)",GI.200 Antiulcer agents
+1,Octreotide,"Injection, 50mcg/ml; 100mcg/ml",GI.300. Medicines for Upper GI bleeding
+2,Omeprazole,Powder for injection: 40 mg in vial,GI.300. Medicines for Upper GI bleeding
+3,Pantoprazole,"Tablet, 40mg",GI.300. Medicines for Upper GI bleeding
+4,Propranolol,"Tablet, 20mg",GI.300. Medicines for Upper GI bleeding
+1,Hyoscine (Scopolamine) Butyl bromide,"Injection, 20mg/ml | Tablet, 10mg | syrup, 5mg/5ml",GI.400. Antispasmodics/ Spasmolytics analgesics
+2,Hyoscine (Scopolamine) Hydrobromide,"Injection, 0.4mg/ml, 0.6mg/ml in 1ml ampoule | Tablet, 0.6mg",GI.400. Antispasmodics/ Spasmolytics analgesics
+1,Chlorpromazine Hydrochloride,"Drops, 25mg/ml | Tablet,25mg,",GI.500. Antiemetics
+2,Dimenhydrinate,"Tablet, 50mg",GI.500. Antiemetics
+3,Dexamethasone,Injection 4mg/ml,GI.500. Antiemetics
+4,Meclizine Hydrochloride+ Vitamin B6,"Tablet, 25mg+50mg",GI.500. Antiemetics
+5,Metoclopramide Hydrochloride,"Drops, 0.2mg/drop | Injection, 5mg/ml, 5mg/2ml in 2ml ampoule | Syrup, 5mg/5ml | Tablet, 10mg",GI.500. Antiemetics
+6,Ondansetron,"Injection, 2 mg/ml in 2 ml | Oral liquid, 4 mg base/5 mL | Tablet, 4 mg | *Aprepitant can be used as alternatives",GI.500. Antiemetics
+1,Bisacodyl,"Suppository, 5mg, 10mg | Tablet, 5mg, 10mg",GI.600. Cathartics and Laxatives
+2,Castor oil,"Liquid, 30ml, 60ml",GI.600. Cathartics and Laxatives
+3,Glycerin,"Suppository, 1gm, 1.36gm, 2gm, 2.76gm",GI.600. Cathartics and Laxatives
+4,Lactulose,"Enema, (300ml Lactulose + 700ml Water) | Oral solution, 10g/15ml",GI.600. Cathartics and Laxatives
+5,Polyethylene Glycol (PEG),"Powder, 17gm per oral dose",GI.600. Cathartics and Laxatives
+1,Loperamide,"Tablet/Capsule, 2mg",GI.700. Medicine used for Diarrhea management
+2,Oral Rehydration Salt Zinc Sulphate*,"Powder, each sachet for 1 liter contains: | Gram/Liter mmol/L | Sodium 2.6 Sodium 75 | Glucose Anhydrase 13.5Chloride 65 | Potassium Chloride1.5Glucose Anhydrase 75 | Trisodium Citrate Dehydrate 2 .9 Potassium 20 | Citrate 10 | Total Osmolarity = 245",GI.700. Medicine used for Diarrhea management
+1,Enalapril*,"Tablet, 2.5mg, 5mg, 10mg | *Lisinopril can be used as alternatives",CV.100. Medicines for Heart Failure
+2,Captopril,"Tablet, 12.5mg",CV.100. Medicines for Heart Failure
+3,Digoxin,"Elixir, 0.05mg/ml | Injection, 0.25 mg/ml in 2ml ampoule | Tablet, 0.25mg",CV.100. Medicines for Heart Failure
+4,Candesartan *,"Tablet 4mg, 8mg, 16mg | *Valsartan and losartan can be used as | alternatives.",CV.100. Medicines for Heart Failure
+5,Spironolactone,"Tablet, 25mg",CV.100. Medicines for Heart Failure
+6,Furosemide,"Injection, 10 mg/ml in 2ml ampoule | Oral liquid, 20 mg/5ml | Tablet, 20mg, 40 mg",CV.100. Medicines for Heart Failure
+7,Hydrochlorothiazide,"Oral liquid: 50 mg/5ml | Tablet, 25mg",CV.100. Medicines for Heart Failure
+8,Norepinephrine,"Injection, 1mg/1ml",CV.100. Medicines for Heart Failure
+9,Nitroglycerine,"Injection, 5mg/ml",CV.100. Medicines for Heart Failure
+10,Metoprolol succinate,"Tablet, 25mg, 50mg,100mg",CV.100. Medicines for Heart Failure
+1,Adenosine,"Injection, 3mg/ml",CV.200 Antiarrhythmics
+2,Amiodarone,"Tablet, 100mg, 200mg, 400mg | Injection, 50mg/ml",CV.200 Antiarrhythmics
+3,Atropine *,"Injection, 0.1mg/ml, 1mg/ml | Isopernaline can be used as alternative",CV.200 Antiarrhythmics
+4,Digoxin,"Elixir, 0.05mg/ml | Injection, 0.25 mg/ml in 2mlampoule | Tablet, 0.25mg",CV.200 Antiarrhythmics
+5,Lidocaine Hydrochloride,"Injection, 5mg/ml, 10mg/ml, 20mg/ml in 20ml vial | *Procainamide can be used as alternative",CV.200 Antiarrhythmics
+6,Metoprolol,"Injection, 1mg/ml,5mg/ml | Tablet, 25mg, 50mg | *Propranolol, carvedilol, and bisoprolol can be | used as alternatives",CV.200 Antiarrhythmics
+7,Verapamil,"Injection, 2.5mg/ml in 2ml ampoule | Tablet, 40mg, 80mg",CV.200 Antiarrhythmics
+1,Amlodipine*,"Tablet, 2.5mg, 5mg, 10mg",CV.300 Antihypertensive
+2,Nifedipine,"Tablet, 20mg, 40mg",CV.300 Antihypertensive
+3,Candesartan,"Tablet, 8mg,16mg | *losartan, valsartan, and other Angiotensin | receptor 1 inhibitors (ARBs) can be used as | alternatives.",CV.300 Antihypertensive
+4,Lisinopril*,"Tablet, 5mg, 10mg, 20mg | *captopril, Enalapril, & other ACEIs can be used | as alternatives",CV.300 Antihypertensive
+5,Hydralazine,"Injection, 20mg/ml in 1ml ampoule",CV.300 Antihypertensive
+6,Labetalol,"Injection, 5mg/ml, 100mg/20ml",CV.300 Antihypertensive
+7,Carvedilol,"Tablet, 12.5mg, 25mg",CV.300 Antihypertensive
+8,Metoprolol succinate,"Tablet, 25mg, 50mg",CV.300 Antihypertensive
+9,Methyldopa,"Tablet, 250mg,",CV.300 Antihypertensive
+1,Furosemide,"Injection, 10mg/ml in 2ml ampoule | Tablet, 40mg | Oral liquid, 20 mg/5ml",CV.400. Diuretics
+2,Hydrochlorthiazide*,"Tablet, 25mg | *Indapamide can be used as alternative",CV.400. Diuretics
+3,Mannitol,"Injection, 10% , 20%",CV.400. Diuretics
+4,Spironolactone,"Tablet, 25mg",CV.400. Diuretics
+1,Metoprolol its salt,"Tablet(succinate) , 25mg, 50mg | Injection (tartarate), 1mg/ml,5mg/ml",CV.500. Medicines used for Angina/Ischemic Heart Disease
+1,Alteplase,Powder for injection: 10 mg; 20 mg; 50 mg in vial,CV.1000. Thrombolytic Agents
+2,Streptokinase,Powder for injection: 1.5 million IU in vial,CV.1000. Thrombolytic Agents
+1,Dextromethorphan Hydrobromide,"Syrup, 15mg/5ml",RE.100. Antitussive/Expectorant
+2,Paracetamol + Chlorpheniramine + Pseudoephedrine,"Syrup, 160mg + 1mg + 15mg /5ml | Tablet, 500mg + 1.25mg + 30 mg",RE.100. Antitussive/Expectorant
+3,Guaifenesin RE.200. Anti-asthmatic medicines and medicines for chronic obstructive pulmonary disease,"Syrup, 100mg/5ml",RE.100. Antitussive/Expectorant
+1,Aminophylline,"Injection, 250mg/10ml in 10ml",RE.100. Antitussive/Expectorant
+2,Beclomethasone Dipropionate*,"Oral Inhalation (aerosol), 50mcg/dose, | 100mcg/dose, 200mcg/dose | *Budesonide can be used as alternatives",RE.100. Antitussive/Expectorant
+3,Budesonide + formoterol*,Dry powder inhaler: 80 mcg + 4.5 mcg; 160 mcg + | 4.5 mcg; 320 mcg + 9mcg *Fluticasone + | Salmeterol can be used as alternatives,RE.100. Antitussive/Expectorant
+4,Ipratropium bromide,"Aerosol, 20mcg/metered dose , 40mcg/metered | dose inhalation",RE.100. Antitussive/Expectorant
+5,Tiotropium,"Powder for inhalation, capsule: 18 micrograms | Inhalation solution: 1.25 mcg; 2.5 mcg",RE.100. Antitussive/Expectorant
+6,Salbutamol,"Syrup, 2mg/5ml | Oral Inhalation (aerosol), 0.1 mg/dose",RE.100. Antitussive/Expectorant
+7,Prednisolone,"Tablet, 5mg",RE.100. Antitussive/Expectorant
+8,Hydrocortisone Succinate,"Injection: 40mg/ml, 80mg/2ml",RE.100. Antitussive/Expectorant
+1,Mometasonefuroate*,"Nasal spray, 50mcg | *Beclomethasone dipropionate nasal spray can be | used as alternatives",RE.300. Medicines for Allergic Rhinitis
+2,Loratidine*,"Tablet, 10mg | Oral solution, 1mg/ml | *Cetrizine can be used as alternatives",RE.300. Medicines for Allergic Rhinitis
+3,Xylometazoline,"Nasal drop, 0.05%; 0.1%",RE.300. Medicines for Allergic Rhinitis
+1,Prednisolone,"Tablet, 5 mg","RE.400. Medicines for sarcoidosis,Intersitital Lung disease"
+2,Methotrexate,"Tablet ,2.5mg, 5mg","RE.400. Medicines for sarcoidosis,Intersitital Lung disease"
+3,Azathioprine*,"Tablet, 50 mg | *Mycophenolate Mofetil can be used as | alternatives","RE.400. Medicines for sarcoidosis,Intersitital Lung disease"
+1,Caffeine citrate,Injection: 20 mg/ mL (equivalent to 10 mg | caffeine base/ mL). | Oral liquid: 20 mg/ mL (equivalent to 10 mg | caffeine base/ mL).,RE.500.Medicine for Apnea of prematurity
+1,Amoxicillin (Access),"Capsule, 250mg, 500mg | Oral Powder for Suspension, 125mg/5ml, | 250mg/5ml | Tablet, 125mg, 250mg (Dispersible)",AI.101. Penicillines
+2,Amoxicillin + Clavulanic Acid (Access),"Injection, 500mg +100mg, 1g +200mg | Tablet, 500mg +125mg, 875mg +125 mg | Oral suspension, 125mg + 31.25mg/5ml, 200mg + | 28.5mg/5ml, 250mg + 62.5mg/5ml, 400mg + | 57mg/5ml",AI.101. Penicillines
+3,Ampicillin (Access),"Injection (Sodium), 250mg, 500mg, 1g in vial",AI.101. Penicillines
+4,Ampicillin + Sulbactam (Watch),"Powder for injection, 1000mg +500mg)",AI.101. Penicillines
+5,Cloxacillin (Access),"Capsule, 250mg, 500mg | Injection, 250mg, 500mg in vial | Suspension, 125mg/5ml , 250mg/5ml",AI.101. Penicillines
+6,"Penicillin G, Benzathin (Access)","Injection, 0.6 MIU, 1.2 MIU, 2.4 MIU",AI.101. Penicillines
+7,"Penicillin G, Sodium Crystalline (Access)","Injection, 1 MIU, 5MIU, 10 MIU",AI.101. Penicillines
+8,Piperacillin + tazobactam (Reserve),Powder for injection: 2 g (as sodium salt) + 250 | mg (as sodium salt); 4 g (as sodium salt) + 500 mg | (as sodium salt) in vial,AI.101. Penicillines
+1,Cefazolin (Access),"Powder for Injection, 500mg, 1g, 2g",AI.102 .Cephalosporins
+2,Cefotaxime Sodium (Watch),"Injection, 250mg, 0.5g, 1g, in vial",AI.102 .Cephalosporins
+3,Ceftazidime (Watch),"Injection, 0.5g, 1g, 2g in vial",AI.102 .Cephalosporins
+4,Ceftazidime + Avibactam(Reserve),Powder for injection 2g + 0.5g,AI.102 .Cephalosporins
+5,Cefuroxime (Watch),"Capsule or Tablet, 125mg, 250mg | Oral suspension, 125mg/ml",AI.102 .Cephalosporins
+6,Cefixime (Watch),"Tablet, 100mg, 200mg, 400mg | Suspension, 100/5ml, 200mg/5ml,500mg/5ml",AI.102 .Cephalosporins
+7,Cefepime(Watch),"Powder for injection, 1 gm",AI.102 .Cephalosporins
+8,Cefpodoxime (Watch),"Tablet, 100mg, 200mg | Powder for oral suspension, 40mg/5ml",AI.102 .Cephalosporins
+9,Ceftriaxone (Watch),"Injection, 0.25g, 0.5g, 1g in vial",AI.102 .Cephalosporins
+10,Ceftriaxone + sulbactam (Watch),"Powder injection, 1gm + 500mg",AI.102 .Cephalosporins
+11,Cephalexin (Access),"Capsule, 250mg, 500 mg | Syrup, 125mg/5ml, 250mg/5ml",AI.102 .Cephalosporins
+1,Azithromycin (access),"Powder for oral suspension, 200mg/ml | Tablet or Capsule, 250mg, 500mg",AI.103. Macrolides
+2,Clarithromycin* (Access),"Powder for Oral suspension,125mg/5ml, | 250mg/5ml | Tablet, 500mg | Powder for I.V infusion, 500mg/vial | *Erythromycin may be an alternative",AI.103. Macrolides
+1,Meropenem (Reserve),"Powder for injection, 500mg/vial, 1g/ vial",AI.104. Carbapenems/Imipenem
+2,Meropenem + Vaborbactam (Reserve),Powder for injection 1g + 1g in vial,AI.104. Carbapenems/Imipenem
+1,Gentamicin (Access),"Injection, 20mg/2ml,80mg/2ml",AI.105. Aminoglycosides
+2,Neomycin (Reserve),"Tablet, 500mg",AI.105. Aminoglycosides
+1,Ciprofloxacin (Watch),"Iv Infusion (as lactate) 2mg/ml | Tablet (as hydrochloride), 250mg, 500mg | For oral suspension, 250mg/5ml",AI.106. Fluroquinolones
+2,Norfloxacin (Access),"Tablet, 400mg",AI.106. Fluroquinolones
+1,Doxycycline (Access),"Tablet/Capsule, 100mg | Oral liquid: 25 mg/5 mL; 50 mg/5 mL | (anhydrous).",AI.107. Tetracycline
+1,Colistin (Reserve),Powder for injection 1M IU,AI.108. Miscellaneous
+2,Clindamycin (Watch),"Capsule, 75mg, 150mg | Injection, 150mg/ml in ampoule | Oral solution, 15mg/ml, in 5ml",AI.108. Miscellaneous
+3,Metronidazole (Access),"Intravenous Infusion, 5mg/ml in 100ml | Tablet/Capsule, 250mg, 500mg | Oral liquid, 125mg (benzoate)/5ml | Suppository: 500mg, 1gm",AI.108. Miscellaneous
+4,Polymyxin B (Reserve),"Powder for injection 500,000 IU",AI.108. Miscellaneous
+5,Nitrofurantoin (Access),"Tablet,100mg",AI.108. Miscellaneous
+6,Sulphamethoxazole + Trimethoprim (Access),"Tablet: (pediatric), 100mg + 20mg (Dispersible); | (adult), 400mg + 80mg; 800mg +160mg | Suspension, 240mg/5ml | Injection, 80mg + 16mg/ml (5ml, 10ml, 30ml)",AI.108. Miscellaneous
+7,Vancomycin (Reserve),"Capsule, 125mg, 250mg",AI.108. Miscellaneous
+4,Isoniazid,Oral liquid: 50 mg/5 mL | Tablet: 100 mg to 300 mg. | Tablet (scored): 50 mg. | Tablet (dispersible): 100 mg,AI.108. Miscellaneous
+5,Isoniazid + Pyrazinamide + Rifampicin,Tablet: 75 mg + 400 mg + 150 mg. | Tablet (dispersible): 50 mg + 150 mg + 75 mg.,AI.108. Miscellaneous
+6,Isoniazid + Rifampicin,Tablet: 75 mg + 150 mg; 150 mg + 300 mg. | Tablet (dispersible): 50 mg + 75 mg,AI.108. Miscellaneous
+7,Pyrazinamide,Oral liquid: 30 mg/ mL. | Tablet: 400 mg. | Tablet (dispersible): 150 mg. | Tablet (scored): 150 mg.,AI.108. Miscellaneous
+8,Rifabutin,Solid oral dosage form: 150 mg.* | * For use only in patients with HIV receiving | protease inhibitors,AI.108. Miscellaneous
+9,Rifampicin,Oral liquid: 20 mg/ ml | Solid oral dosage form: 150 mg; 300 mg,AI.108. Miscellaneous
+1,Amikacin,"Injection, 100mg, 500mg vial",AI.108. Miscellaneous
+2,Bedaquiline*,Tablet 100mg | *Delamanid use as alternatives,AI.108. Miscellaneous
+3,Capreomycin,"Injection, 1gVial",AI.108. Miscellaneous
+4,Clofazimine,"Solid dosage form 50mg,100mg,",AI.108. Miscellaneous
+5,Cycloserine,"Oral solid dosage form 125mg, 250mg",AI.108. Miscellaneous
+6,Ethionamide*,"Tablet 125mg, 250mg, | Tablet (dispersible) 125mg | * Prothionamide can be used as alternatives",AI.108. Miscellaneous
+7,Kanamycin,"Injection, 1gVial",AI.108. Miscellaneous
+8,Levofloxacin,"Tablet, 250mg, 500mg | Tablet (Dispersible) 100mg",AI.108. Miscellaneous
+9,Linezolid,"Injection for IV 2mg/ml in 300ml | Powder for Oral liquid 100mg/5ml | Tablet 400mg, 600mg | Tablet (dispersible) 150 mg",AI.108. Miscellaneous
+10,Meropenem*,"Powder for injection (as trihydrate) 500mg, 1g in | vial | *Imipenem-cilastatin can be used as alternatives",AI.108. Miscellaneous
+11,Moxifloxacin,"Tablet, 400mg | Tablet (dispersible) 100mg",AI.108. Miscellaneous
+12,P-Aminosalycylic Acid,Granules 4g sachet | Tablet 500mg,AI.108. Miscellaneous
+13,Streptomycine,"Powder for injection, 1gm, 5gm base",AI.108. Miscellaneous
+1,Clofazimine,"Capsule, 50mg, 100mg",AI.110.Antileprotic medicines
+2,Dapsone,"Tablet, 25mg, 50mg, 100mg",AI.110.Antileprotic medicines
+3,Rifampicin,"Capsule, 150mg, 300mg, 600mg",AI.110.Antileprotic medicines
+1,Amphotericin B,"Liposomal Injection, 10mg/ml, 50mg/vial",AI.200.Antifungals
+2,Clotrimazole,"Powder, 1% | Mouth paint,1% | Tablet (vaginal), 100mg, 500mg",AI.200.Antifungals
+3,Flucytosine,"Capsule, 250mg, 500mg | IV Infusion, 10mg/ml",AI.200.Antifungals
+4,Fluconazole,"Capsule/Tablet, 50mg, 100mg, 200mg | Oral liquide, 50mg/5ml, 200mg/5ml | Injection: 2 mg/ mL in vial.",AI.200.Antifungals
+5,Griseofulvin,"Tablet, 125mg, 250mg | Oral suspension, 125mg/5ml",AI.200.Antifungals
+6,Itraconazole,"Capsule, 100mg, 200mg | Oral solution, 10mg/ml",AI.200.Antifungals
+7,Miconazole,"Oral gel, 25mg/ml vial | Tablet (vaginal), 200mg",AI.200.Antifungals
+8,Nystatin,"Oral Suspension, 100,000units/ml",AI.200.Antifungals
+9,Terbinafine Hydrochloride,"Tablet, 125mg, 250mg",AI.200.Antifungals
+10,Voriconazole*,"Tablet 50mg, 200mg | Powder for injection 200mg in vial | Powder for oral liquid 40mg/ml | *caspofungin can be used as alternatives",AI.200.Antifungals
+1,Abacavir Sulphate,Tablet 300mg | Tablet (dispersible scored) 60mg,AI.301. Antiretrovirals
+2,Abacavir Sulphate /Lamuvidine,"Tablet (Dispersible scored), 60mg/30mg, | 120mg/60mg",AI.301. Antiretrovirals
+3,Atazanavir/ Ritonavir,"Tablet, 300mg/100mg",AI.301. Antiretrovirals
+4,Darunavir,"Tablet, 150mg, 400mg, 600mg, 800mg | 100mg/ml suspension",AI.301. Antiretrovirals
+5,Doltegravir,Tablet 50mg,AI.301. Antiretrovirals
+6,Dolutegravir + lamivudine + tenofovir,Tablet 50mg + 300mg + 300mg,AI.301. Antiretrovirals
+7,Efavirenz,"Capsule, 100mg, 200mg | Tablet, 200mg, 600mg",AI.301. Antiretrovirals
+8,Efavirenz + Lamuvidine + Tenofovir,Tablet 400mg + 300mg + 300mg,AI.301. Antiretrovirals
+9,Efavirenz + Emtricitabine + Tenofovir,"Tablet, 600mg +200mg +300mg",AI.301. Antiretrovirals
+10,Emtricitabine + Tenofovir,"Tablet , 200mg +300mg",AI.301. Antiretrovirals
+11,Lamivudine,"Tablet, 150mg | Oral Solution, 10mg/ml",AI.301. Antiretrovirals
+12,Lamivudine+ Zidovudine,"Tablet, 150mg +300mg, 30mg + 60mg",AI.301. Antiretrovirals
+13,Lopinavir + Ritonavir,"Oral suspension, 80mg + 20mg/ml | Tablet, 200mg + 50mg; 100mg + 25mg",AI.301. Antiretrovirals
+14,Nevirapine,"Syrup, 50mg/ml",AI.301. Antiretrovirals
+15,Raltegravir,"Tablet (chewable) 25mg, 100mg | Tablet, 400mg | Granules for oral suspension 100mg in sachet",AI.301. Antiretrovirals
+16,Zidovudine,"Capsule, 100mg, 250mg | Tablet, 300mg | IV Infusion, 10mg/ml | Oral liquide, 50mg/5ml",AI.301. Antiretrovirals
+1,Tenofovirdisoproxil fumarate (TDF),Tablet: 300 mg (tenofovirdisoproxil fumarate – | equivalent to 245 mg tenofovirdisoproxil).,AI.302.1. Medicines for Hepatitis B
+2,Entecavir (ETV),"Tablet, 0.5mg, 1mg | Oral solution, 0.05mg/ml",AI.302.1. Medicines for Hepatitis B
+1,Glecaprevir + Pibrentasvir,Tablet: 100 mg + 40 mg,AI.302.2. Medicines for Hepatitis C
+2,Sofosbuvir* +daclatasvir,Tablet: 400 mg +60mg,AI.302.2. Medicines for Hepatitis C
+3,Sofosbuvir + Velpatasvir,Tablet: 400 mg + 100 mg,AI.302.2. Medicines for Hepatitis C
+4,Sofosbuvir + Ledipasvir,Tablet: 400 mg+ 90 mg.,AI.302.2. Medicines for Hepatitis C
+1,Acyclovir,"Capsule/Tablet, 200mg, 400mg | Oral liquid 200mg/5ml | Powder for Injection, 250mg, 500mg",AI.303. Other Antivirals
+2,Ganciclovir,"Powder for IV infusion, 500mg/Vial | Capsule, 250mg, 500mg",AI.303. Other Antivirals
+1,Artemether,"Injection, 20mg/ml, 40mg/ml, 80mg/ml",AI.401. Anti-malarial medicines
+2,Artemether + Lumefantrine,"Tablet, 20mg + 120mg (Dispersible) | Tablet, 20mg + 120mg",AI.401. Anti-malarial medicines
+3,Artesunate,Injection 60mg/ml,AI.401. Anti-malarial medicines
+4,Chloroquine,"Syrup, 50mg base/5ml | Tablet, 250mg, 500mg(equivalent to 150mg, 300 | mg base)",AI.401. Anti-malarial medicines
+5,Mefloquine Hydrochloride,"Tablet, 250mg",AI.401. Anti-malarial medicines
+6,Primaquine Phosphate,"Tablet, 7.5 mg, 15mg base",AI.401. Anti-malarial medicines
+7,Quinine- Dihydrochloride,"Injection, 300mg/ml in 1ml ampoule | Tablet, 300mg, 600mg",AI.401. Anti-malarial medicines
+8,Doxycycline,"Tablet, 100mg",AI.401. Anti-malarial medicines
+1,Diloxanide Furoate,"Tablet, 500mg",AI.402. Medicines for Amoebiasis
+2,Metronidazole,"Oral Suspension, 125mg/5ml, 200mg | Capsule/Tablet, 250mg | Injection 500mg in 100ml vial",AI.402. Medicines for Amoebiasis
+3,Tinidazole,"Tablet, 500mg",AI.402. Medicines for Amoebiasis
+1,Metronidazole,"Oral Suspension,125mg/5ml,200mg/5ml | Tablet/Capsule, 250mg",AI.403. Medicines  for Giardiasis
+2,Tinidazole,"Tablet, 500mg",AI.403. Medicines  for Giardiasis
+1,Amphotericin B,"Liposomal Injection, 10mg/ml, 50mg/vial",AI.404.Antileshimanisiasis
+2,Miltefosine,"Solid oral dosage form 10mg, 50mg",AI.404.Antileshimanisiasis
+3,Paromomycin,"Capsule, 250mg | Injection, 375mg/ml, (Sulfate) 2ml/ampoule",AI.404.Antileshimanisiasis
+4,Sodium Stibugluconate,"Injection, 100mg/ml",AI.404.Antileshimanisiasis
+1,Pentamidine,"Powder for injection (Isethionate), 200mg",AI.405. Trypanocides
+2,Suramin Sodium,"Powder for Injection, 1gm in vial",AI.405. Trypanocides
+1,Clindamycin,"Capsule, 75mg, 150mg | Injection, 150mg/ml in ampoule | Oral Solution, 15mg/ml",AI.406. Medicines for Toxoplasmosis
+2,Pyrimethamine,"Tablet, 25mg",AI.406. Medicines for Toxoplasmosis
+3,Sulfamethoxazole + Trimethoprim,"Tablet: (pediatric), 100mg + 20mg (Dispersible); | (adult), 400mg + 80mg; 800mg +160mg | Suspension, 240mg/5ml | Injection, 80mg + 16mg/ml (5ml, 10ml, 30ml)",AI.406. Medicines for Toxoplasmosis
+4,Sulfadiazine + Folinic Acid,Tablet 500mg +15mg,AI.406. Medicines for Toxoplasmosis
+1,Albendazol,"Tablet (chewable), 400mg | Oral suspension, 100mg/5ml",AI.500.Antihelmentics
+2,Diethyl Carbamazine Citrate,"Tablet, 50mg",AI.500.Antihelmentics
+3,Ivermectin,"Tablet, 3mg, 6mg (Scored)",AI.500.Antihelmentics
+1,Praziquantel,"Tablet, 600mg",AI.502.Schistosomicides
+1,1. Albendazol,"Tablet, 200mg, 400mg | Oral suspension, 100mg/5ml",AI.503. Other Anthelmintics
+2,2. Piperazine,"Elixir(Citrate), 500mg/5ml, 750mg/5ml",AI.503. Other Anthelmintics
+3,3. Mebendazole,"100mg, 500mg tablet (chewable) | 100mg/5ml syrup",AI.503. Other Anthelmintics
+1,Acetaminophen,"Drops, 100mg/ml | Injection, 1gm in 100ml | Syrup, 120mg/5ml, 250mg/5ml | Suppository, 125 mg, 250 mg | Tablet,100mg, 500mg",AI.503. Other Anthelmintics
+2,Acetylsalicylic Acid,"Tablet,300mg, (enteric coated)",AI.503. Other Anthelmintics
+3,Diclofenac,"Injection, 25mg/ml in 3ml ampoule, 75mg/ml | Suppository 12.5mg, 25 mg, 50mg, 100mg | Tablet, 25mg, 50mg | Gel, 1%w/w",AI.503. Other Anthelmintics
+4,Ibuprofen,"Syrup/suspension, 100mg/5ml | Capsule/Tablet, 400mg",AI.503. Other Anthelmintics
+5,Fentanyl,"Injection, 50mg/ ml | Patch, 2.1mg, 4.2mg",AI.503. Other Anthelmintics
+6,Morphine,"Injection, 10mg/ml | Oral Solution, 10mg/5ml | Tablet, 10mg, 30mg",AI.503. Other Anthelmintics
+7,Pethidine,"Injection, 50mg/ml in 1ml and 2ml ampoule",AI.503. Other Anthelmintics
+8,Amitriptyline,"Tablet, 10mg, 25mg ,75mg",AI.503. Other Anthelmintics
+9,Gabapentin,"Tablet , 150mg, 300mg",AI.503. Other Anthelmintics
+10,Carbamazepine,"Tablet, 100mg, 200mg",AI.503. Other Anthelmintics
+11,Tramadol hydrochloride,"Injection, 50mg/ml | Tablet/Capsule, 50mg, 100mg",AI.503. Other Anthelmintics
+1,Acetylsalicylic Acid,"Tablet, 300mg to 500mg",NS.200. Antimigraine medicine
+2,Ibuprofen,"Tablet, 200mg, 400mg",NS.200. Antimigraine medicine
+3,Paracetamol,"Tablet, 500mg",NS.200. Antimigraine medicine
+4,Propranolol,"Tablet, 20mg, 40mg",NS.200. Antimigraine medicine
+5,Sumatriptan,"Tablet, 25mg, 50mg,100mg",NS.200. Antimigraine medicine
+1,Diazepam,"Injection, 5mg/ml in 2ml ampoule | Syrup, 2mg/5ml | Tablet, 2mg, 5mg, 10mg",NS.300 Hypnotics and Anxiolytics
+2,Midazolam hydrochloride,"Injection, 1mg/ml, 2mg/ml, 5mg/m | Syrup, 2mg/ml | Tablet, 10mg",NS.300 Hypnotics and Anxiolytics
+3,Bromazepam,"Tablet, 1.5 mg, 3mg",NS.300 Hypnotics and Anxiolytics
+4,Lorazepam,"Injection, 1mg/ml, 4mg/ml | Tablet ,0.5mg, 1 mg",NS.300 Hypnotics and Anxiolytics
+1,Amitriptyline,"Tablet, 25mg, 50mg",NS.400.Antidepressnat
+2,Fluoxetine,"Capsule, 20mg",NS.400.Antidepressnat
+3,Impramine,"Tablet, 10mg, 25mg",NS.400.Antidepressnat
+4,Sertaline Hydrochloride,"Tablet, 50mg, 100mg | Oral soultion",NS.400.Antidepressnat
+1,Carbamazepine,"Syrup, 100mg/5ml | Tablet, 100mg, 200mg",NS.500.Anticonvulsants
+2,Clonazepam,"Injection, 1mg/ml in 1ml ampule | Tablet, 0.5mg, 1mg, 2mg",NS.500.Anticonvulsants
+3,Diazepam,"Injection, 10mg/2ml in 2ml ampoule",NS.500.Anticonvulsants
+4,Lamotrigine,"Tablet, 25mg, 50mg, 100mg, 200mg",NS.500.Anticonvulsants
+5,Lorazepam,"Injection,1mg, 4mg/ml",NS.500.Anticonvulsants
+6,Magnesium sulphate,"Injection, 50% in 20ml",NS.500.Anticonvulsants
+7,Phenytoin (Sodium salt),"Capsule, 50mg, 100mg | Injection, 50mg/ml in 5ml vial | Powder for injection, 250mg/ vial | Tablet, 50mg, 100mg",NS.500.Anticonvulsants
+8,Phenobarbitone(Phenobarbital),"Elixir, 20mg/5ml | Injection, 25mg/ml, 100mg/ml | Tablet,15mg, 30mg, 60mg,100 mg",NS.500.Anticonvulsants
+9,Sodium Valproate,"Tablet, 200mg, 500mg | Syrup, 200mg/5ml",NS.500.Anticonvulsants
+10,Gabapentin,"Tablet, 100, 150mg, 300mg",NS.500.Anticonvulsants
+11,Ethiosuxumide,"Tablet, 250mg | Syrup 250mg/ml",NS.500.Anticonvulsants
+1,Benzhexol/Trihexphenidyl,"Tablet, 2mg, 5mg",NS.600. Antiparkinson medicines/ Drug Induced movement Disorder
+2,Levodopa + Carbidopa,"Tablet, 100mg +10mg; 250mg +25mg",NS.600. Antiparkinson medicines/ Drug Induced movement Disorder
+3,Benzotropine,"Tablet 1mg, 2mg",NS.600. Antiparkinson medicines/ Drug Induced movement Disorder
+4,Valbenazine,"Capsule, 40mg, 80mg",NS.600. Antiparkinson medicines/ Drug Induced movement Disorder
+1,Chlorpromazine Hydrochloride,"Injection, 25mg/ml | Tablet, 25mg, 50mg, 100mg",NS.700.Antipsychotic medicines
+2,Clozapine,"Tablet, 25mg, 50mg, 100mg",NS.700.Antipsychotic medicines
+3,Fluphenazine Decanoate,"Injection (Depot. Oily), 25mg/ml",NS.700.Antipsychotic medicines
+4,Haloperidol,"Injection, 5mg/ml | Injection (Depot oily), 50mg/ml, 100mg/ml | Tablet, 1mg,2mg, 5mg",NS.700.Antipsychotic medicines
+5,Olanzapine,"Tablet, 5mg",NS.700.Antipsychotic medicines
+6,Quetiapine,"Tablet, 25mg,100mg ,200mg | ER tablet, 100mg, 200mg",NS.700.Antipsychotic medicines
+7,Risperidone,"Tablet, 1mg, 2mg, 3mg, 4mg | Powder for injection, 50mg(Depot)",NS.700.Antipsychotic medicines
+1,Carbamazepine,"Syrup, 100mg/5ml | Tablet, 100mg, 200mg",NS.800.Mood stabilizers
+2,Lithium Carbonate,"Tablet, 300mg",NS.800.Mood stabilizers
+3,Sodium Valproate,"Syrup, 200mg/5ml | Tablet, 200mg, 500mg",NS.800.Mood stabilizers
+1,Bupropion,"Tablet, 75 mg, 100mg",NS.900. Medicines for Substance Abuse and Dependence
+2,Methadone Hydrochloride,"Tablet, 5mg, 10mg, 40mg | Concentrate for Oral liquid, 5mg/ml, 10mg/ml | Oral liquid, 5mg/5ml, 10mg/5ml",NS.900. Medicines for Substance Abuse and Dependence
+3,Naltrexone Hydrochloride,"Tablet, 50m g | Injection, 380mg/Vial",NS.900. Medicines for Substance Abuse and Dependence
+4,Nicotine Replacement Therapy (NRT),"Chewing Gum, 2mg, 4mg | Transdermal Patch, 5mg – 30mg/16hrs, 7mg - | 21mg/24hrs",NS.900. Medicines for Substance Abuse and Dependence
+1,Bupropion,"Tablet, 75 mg, 100mg",NS.1000. Medicines for Attention Deficit Disorder
+2,Methylphenidate,"Tablet, 5mg, 10mg, 20mg",NS.1000. Medicines for Attention Deficit Disorder
+3,Dextroamphetamine,"Tablet, 2.5mg,5mg,10mg | Oral liquid, 5mg/5ml | ER tablet, 10mg,15 mg",NS.1000. Medicines for Attention Deficit Disorder
+2,Ephedrine Hydrochloride,"Injection, 50mg/ml",NS.1000. Medicines for Attention Deficit Disorder
+3,Glycopyrronium,"Injection, 0.2mg/ml,",NS.1000. Medicines for Attention Deficit Disorder
+4,Neostigmine,"Injection, 0.5mg/ml, 2.5mg/ml in 1ml ampoule",NS.1000. Medicines for Attention Deficit Disorder
+5,Oxygen,Inhalation (Medicinal gas),NS.1000. Medicines for Attention Deficit Disorder
+6,Paracetamol,"Solution for infusion, 10mg/ml",NS.1000. Medicines for Attention Deficit Disorder
+7,Phenylephrine Hydrochloride,"Injection, 10mg/ml in 1ml ampoule",NS.1000. Medicines for Attention Deficit Disorder
+1,Pancuronium Bromide,"Injection, 2mg/ml in 2ml ampoule",AA.400.Neuromescular blockers
+2,Suxamethonium Chloride* (Succinylcholine),"Powder for injection, 50mg, 100mg, 500mg | Injection, 50mg/ml | *Rocuronium can be used as alternatives",AA.400.Neuromescular blockers
+3,Cisatracurium,"Injection, 2mg/ml | *Atracurium can be used as alternatives",AA.400.Neuromescular blockers
+4,Vecuronium Bromide,"Powder for injection, 10mg in a vial",AA.400.Neuromescular blockers
+3,Chloroquine phosphate,"Tablet, 150mg",AA.400.Neuromescular blockers
+1,Ascorbic acid (Vitamin C),"Tablet, 100mg, 500mg",VT.100. Vitamin
+2,Cholecalciferol (Vitamin D3)*,"Capsule, 10000iu, 50000iu | Injection, 300000iu/ml | *Ergocalciferol (D2) can be used as alternatives",VT.100. Vitamin
+3,Cyanocobalamine (Vitamin B12),"Injection, 1mg/ml in 1ml ampoule",VT.100. Vitamin
+4,Folic Acid,"Tablet, 1mg, 5mg",VT.100. Vitamin
+5,Phytomenadione (Vitamin K1),"Injection, 1mg/0.5ml, 10mg/ml in 1ml ampoule | Tablet, 10mg",VT.100. Vitamin
+6,Pyridoxine Hydrochloride (Vitamin B6),"Tablet, 25mg, 50mg",VT.100. Vitamin
+7,Thiamine Hydrochloride(Vitamin B1),"Tablet, 50mg, 100mg | Injection, 50mg/ml in 2ml ampoule",VT.100. Vitamin
+8,Vitamin A,"Capsule, 50,000IU, 100,000IU, 200,000IU | Injection, 50,000IU/ml",VT.100. Vitamin
+1,Vitamin B1 + B6 + B12,"Tablet/Injection,100mg +200mg+1000mcg",VT.200. Vitamin B-complex Preparation
+1,Multivitamin with Minerals and/or Extracts,"Tablet, syrup, drops",VT.300.Multivitamins with Minerals and /or extracts
+3,Hydrocortisone,"Injection (Sodium Succinate), 50mg/mlin 2ml | ampoule,125 mg/ml | Tablet (Acetate), 5mg, 10mg, 20mg",VT.300.Multivitamins with Minerals and /or extracts
+4,Methylprednisolone Acetate,"Injection (aqueous suspension),40mg/ml, 80mg/ml | in 1ml and 2ml ampoules",VT.300.Multivitamins with Minerals and /or extracts
+5,Prednisolone,"Tablet, 1mg, 3.5mg, 5mg, 10mg | Injection (Sodium Phosphate), 10mg/ml, 25mg/ml | in 2ml ampoule",VT.300.Multivitamins with Minerals and /or extracts
+6,Triamcinolone Acetonide,"Injection, 10mg/ml, 40mg/ml in vial | Tablet, 4mg",VT.300.Multivitamins with Minerals and /or extracts
+7,Fludrocortisone,Tablet: 100 micrograms (acetate).,VT.300.Multivitamins with Minerals and /or extracts
+1,Aqueous Iodine Solution (Iodine + Potassium Iodide),"Solution, 5% + 10%",ED.200. Thyroid Hormone and Anti-thyroid Agents
+2,Carbimazole,"Tablet, 5mg",ED.200. Thyroid Hormone and Anti-thyroid Agents
+3,PropylThiouracil(PTU),"Tablet, 25mg, 50mg, 100mg",ED.200. Thyroid Hormone and Anti-thyroid Agents
+4,Levothyroxine,"Tablet, 0.025mg, 0.05mg, 0.1 mg",ED.200. Thyroid Hormone and Anti-thyroid Agents
+5,Propranolol,"Tablet, 20mg, 40mg",ED.200. Thyroid Hormone and Anti-thyroid Agents
+1,Glibenclamide*,"Tablet, 5mg | *Gliclazide can be used as alternative",ED.300. Drugsused for management of Blood Suger
+2,Glimperide,"Tablet, 1mg, 2mg",ED.300. Drugsused for management of Blood Suger
+3,Glucagon,"Injection, 1mg/ml",ED.300. Drugsused for management of Blood Suger
+4,Insulin,"Injection (Soluble /Natural), 100 units/ml in10ml | vial, | NPH ,100 units/ml in 10ml vial",ED.300. Drugsused for management of Blood Suger
+5,Metformin,"Tablet, 500mg, 1000mg",ED.300. Drugsused for management of Blood Suger
+6,Dapagliflozin,"Tablet, 10mg",ED.300. Drugsused for management of Blood Suger
+1,Norethindrone (Norethisterone,"Tablet, 5mg",ED.400. Female sex hormone preparations
+2,Hydroxyprogesterone Caproate,"Injection, 250mg/ml in1ml ampoule",ED.400. Female sex hormone preparations
+3,Estradiol,Vaginal cream 0.01%,ED.400. Female sex hormone preparations
+4,Medroxyprogesteronen acetate,Tablet: 5 mg.,ED.400. Female sex hormone preparations
+1,Levonorgestrel (D-Norgestrel) + Ethinylestradiol with/ without Iron,"Tablet, 0.15mg +0.03mg, 0.25mg + 0.05mg, | 0.5mg +0.05mg, 0.3mg + 0.03mg; | 0.05mg +0.03mg (6tablet), 0.075mg +0.04mg | (5tablet), 0.125mg + 0.03mg (10tablet)",ED.501. Combined oral Contraceptives
+1,Leovonorgestrel (D-Nongestrel),"Tablet, 0.75mg, 1.5mg",ED.502. Emergency Contraceptive
+1,Medroxyprogesterone Acetate,"Injection, 150mg/ml in 1ml vial",ED.503.Progesterone only contraceptives
+2,Norethindrone,"Tablet, 0.35mg",ED.503.Progesterone only contraceptives
+1,Condoms,Male,ED.504. Contraceptive Devices and Barriers
+2,Levonorgestrel-releasing intrauterine system,Intrauterine with reservoir containing 52mg of | levonorestrel,ED.504. Contraceptive Devices and Barriers
+3,Copper T380A,,ED.504. Contraceptive Devices and Barriers
+1,Etonogestrel-releasing implant,"Single-rod etonogestrel-releasing implant, | containing 68 mg of etonogestrel.",ED.505.Implantable contraceptives
+2,levonorgestrel-releasing implant,"Two-rod levonorgestrel-releasing implant, each | rod containing 75 mg of levonorgestrel (150 mg | total). | rod containing 75 mg of levonorgestrel (150 mg | total).",ED.505.Implantable contraceptives
+1,Clomifene citrate,"Tablet, 50mg",OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+2,Ergometrin,"Injection, 0.2mg/ml",OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+3,Magnesium sulphate,"Injection, 50% in 20ml",OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+4,Misoprostol,Vaginal tablet : 0.025mg,OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+5,Misoprostol + Mifeprostone,"Tablet, 200mcg + 200mg",OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+6,Pethidine Hydrochloride,"Injection, 50mg/ml",OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+7,Dinoprostone (Prostaglandine E2 ),"Tablet, 3mg",OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+8,Oxytocin,"Injection, 10unit/ml",OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+9,nifedipine*,"Tablet, 10 mg. | *salbutamol 2mg tablet can be use alternatively",OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+10,tranexamic acid,Injection: 100mg/ml in 10ml ampule,OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+11,Caffeine citrate,Injection: 20 mg/ mL,OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+12,Dexamethasone *,"Injection, 4mg/ml | *bethamethasone will be used alternatively",OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+13,Norethistirone,"Tablet, 5mg | Capsule, 60mg +400mcg ( Pregnant )",OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+4,Folinic Acid,"Tablet, 15mg",OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+5,Iron Complex,"Injection ( sucrose/ gluconate), 50mg/ml in 2ml | ampoule",OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+6,Folic Acid,"Tablet, 5mg, 0.4mg, 800mcg",OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+7,Erythropoiesis-stimulating agents*,"Injection: pre-filled syringe 1000IU/ 0.5 mL; | 2000IU/ 0.5 mL; 3000IU/ 0.3 mL; 4000IU/ 0.4 | mL; 5000IU/ 0.5 mL; 6000IU/ 0.6 mL; 8000IU/ | 0.8mL; 10 000IU/ 1 mL; 20 000IU/ 0.5 mL; 40 | 000IU/ 1 mL | * the square box applies to epoetinalfa, beta and | theta, darbepoetinalfa, methoxy polyethylene | glycol-epoetinbeta,and their respective biosimilars.",OG.000.OBSTETRICS AND GYENECOLOGICAL MEDICATIONS
+1,Desmopressin,Injection: 4 micrograms/ mL (as acetate) in 1- mL | ampoule. | Nasal spray: 10 micrograms (as acetate) per dose,BL.400. Antihemophilic agent
+2,Coagulation factor VIII,Powder for injection: 500 IU/vial,BL.400. Antihemophilic agent
+3,Coagulation factor IX,"Powder for injection: 500 IU/vial, 1000 IU/vial",BL.400. Antihemophilic agent
+1,Acetylsalicylic Acid,"Tablet: 75mg, 81mg, 100mg (enteric coated)",BL.500. Antiplatelate
+2,Clopidogrel,"Tablet: 75mg, 100mg",BL.500. Antiplatelate
+1,"Dextran (Mw 40,000)*",Solution: 10% w/v in 5% Dextrose,BL.600. Blood substitute and plasma expander
+2,"Dextran (MW 70,000)*",Solution: 6% w/v in 5% Dextrose,BL.600. Blood substitute and plasma expander
+3,Albumin Chloride 70 Total Osmolality 294mEq/liter,Solution: 20%,BL.600. Blood substitute and plasma expander
+5,Potassium Chloride,"Tablet: 600mg,",BL.600. Blood substitute and plasma expander
+6,Sodium Bicarbonate,"Tablet: 500mg,",BL.600. Blood substitute and plasma expander
+1,Calcium Gluconate,Injection: 10% in 10ml ampoule,FE.200. Parenterals
+2,Dextrose,"Injection, 5% in 250ml, 1000ml; 10% in 500ml, | 1000ml; 40% in 20ml",FE.200. Parenterals
+3,Dextrose in Normal Saline,"Injection 5% in 500ml, 1000ml; | 10% in 500ml, 1000ml",FE.200. Parenterals
+4,Lactated Ringer’s (Hartmann’s Solution),"Injectable solution: K+4mEq + Na + 130mEq + | Ca+, 3mEq + Cl- 110mEq + Lactate 28mEq in | 1000ml",FE.200. Parenterals
+5,Potassium Chloride,"Injection, 150mg/ml in 10ml ampoule",FE.200. Parenterals
+6,Sodium Bicarbonate,"Injection (concentrated), 8.4% (50meq/50ml)",FE.200. Parenterals
+7,Sodium Chloride,"Injection, 0.9% (Normal Saline), 1000ml; 0.9% in | 500ml, 3% in 500ml; | 0.45% sodium chloride (equivalent to Na+ 75 | mmol/L and Cl- 75 mmol/L).",FE.200. Parenterals
+1,Adalimumab,Injection: 40 mg/0.8 mL; 40 mg/0.4 mL,IM.000. IMMUNOMUDULATORS
+2,Azathioprine,Tablet (scored): 50 mg.,IM.000. IMMUNOMUDULATORS
+3,Tacrolimus,"Tablet: 25mg, 50mg",IM.000. IMMUNOMUDULATORS
+4,Cyclosporin,Capsule: 25 mg,IM.000. IMMUNOMUDULATORS
+5,Granulocyte colony stimulating factor (G-CSF),"Injection: 300mcg, 600mcg",IM.000. IMMUNOMUDULATORS
+6,Lenalidomide,Capsule: 25 mg,IM.000. IMMUNOMUDULATORS
+7,Thalidomide,Capsule: 100 mg,IM.000. IMMUNOMUDULATORS
+13,Actinomycin-D/ Dactinomycin,Powder for injection: 0.5 mg in vial.,IM.000. IMMUNOMUDULATORS
+14,Daunomycin hydrochloride /Daunorubicin,Powder for injection: 50 mg (hydrochloride) in | vial.,IM.000. IMMUNOMUDULATORS
+15,Docetaxel,Injection: 40 mg/ mL.,IM.000. IMMUNOMUDULATORS
+16,Doxorubicin,Powder for injection: 50 mg (hydrochloride) in | vial.,IM.000. IMMUNOMUDULATORS
+17,Etoposide,Powder for Injection: 100mg | Capsule: 50 mg,IM.000. IMMUNOMUDULATORS
+18,Epirubicin,"Injection, 50mg",IM.000. IMMUNOMUDULATORS
+19,Fludarabine,Powder for injection: 50 mg (phosphate) in vial.,IM.000. IMMUNOMUDULATORS
+20,Fluorouracil,Injection: 50 mg/ mL.,IM.000. IMMUNOMUDULATORS
+21,Gemcitabine,Powder for injection: 1 g in vial.,IM.000. IMMUNOMUDULATORS
+22,Hydroxyurea (hydroxycarbamide),Solid oral dosage form: 500mg,IM.000. IMMUNOMUDULATORS
+23,Ifosfamide,Powder for injection: 1000mg vial; 3000mg in | vial,IM.000. IMMUNOMUDULATORS
+24,Ifosfamide + Mesna,Powder for injection: 1000mg + 100 mg/ mL in | vial,IM.000. IMMUNOMUDULATORS
+25,Irinotecan,"Injection: 40mg/2ml, 100 mg/5 mL",IM.000. IMMUNOMUDULATORS
+26,Melphalan,Tablet: 2 mg,IM.000. IMMUNOMUDULATORS
+27,Mercaptopurine,Tablet: 50 mg.,IM.000. IMMUNOMUDULATORS
+28,Methotrexate,"Powder for injection: 50 mg in vial. | Tablet: 2.5 mg, 5mg (as sodium salt). | Interthecal methotrexate 5mg/2ml",IM.000. IMMUNOMUDULATORS
+29,Oxaliplatin,Injection: 50 mg/10 mL; 100 mg/20 mL,IM.000. IMMUNOMUDULATORS
+30,Paclitaxel,Powder for injection: 6 mg/ mL.,IM.000. IMMUNOMUDULATORS
+31,Procarbazine,Capsule: 50 mg (as hydrochloride).,IM.000. IMMUNOMUDULATORS
+32,Vinblastine,Powder for injection: 10 mg (sulfate) in vial.,IM.000. IMMUNOMUDULATORS
+33,Vincristine,Powder for injection: 1 mg in vial.,IM.000. IMMUNOMUDULATORS
+34,Vinorelbine,Injection: 10 mg/mL in vial.,IM.000. IMMUNOMUDULATORS
+1,All-trans retinoid acid (ATRA),Capsule: 10 mg.,AN.200.Targeted Therapies
+2,Bortezomib,Powder for injection: 3.5 mg in vial.,AN.200.Targeted Therapies
+3,Dasatinib,Tablet: 70 mg; 100 mg;,AN.200.Targeted Therapies
+4,Imatinib,Tablet: 100 mg,AN.200.Targeted Therapies
+5,Nilotinib,Capsule: 200 mg.,AN.200.Targeted Therapies
+6,Rituximab,Injection (intravenous): 500 mg/50 mL in vial.,AN.200.Targeted Therapies
+7,Azacitidine:,Powder of Injection: 100mg/vial,AN.200.Targeted Therapies
+1,Abiraterone,Tablet: 250 mg; 500 mg,AI.300. Hormone and Antihormones
+2,Anastrozole,Tablet: 1 mg.,AI.300. Hormone and Antihormones
+3,Bicalutamide,Tablet: 50 mg,AI.300. Hormone and Antihormones
+4,Cabergoline,Tablet: 0.5mg,AI.300. Hormone and Antihormones
+5,Tamoxifen,Tablet: 20 mg (as citrate).,AI.300. Hormone and Antihormones
+6,Goserelin,"Injection: 3.6mg, 10.8mg",AI.300. Hormone and Antihormones
+1,Mesna,Injection: 100 mg/ mL in ampoules.,AN.400.Supportive medicines
+2,Zoledronic acid,Concentrate solution for infusion: 4 mg/5 mL in | vial.,AN.400.Supportive medicines
+3,Alendronate,Tablet: 70mg,AN.400.Supportive medicines
+1,Alfuzosin,Tablet: 10mg,BP.000.MEDICINES USED FOR BENIGN PROSTATE HYPERPLASIA
+2,Finastride,Tablet: 5mg,BP.000.MEDICINES USED FOR BENIGN PROSTATE HYPERPLASIA
+3,Tamsulosin,Tablet: 0.4mg,BP.000.MEDICINES USED FOR BENIGN PROSTATE HYPERPLASIA
+4,Terazosin,Tablet: 1mg,BP.000.MEDICINES USED FOR BENIGN PROSTATE HYPERPLASIA
+4,Sodium cromogylate,"Solution (eye drop), 2%, 4%",BP.000.MEDICINES USED FOR BENIGN PROSTATE HYPERPLASIA
+5,Olopatadine,Eye drop: 0.1%; 0.2%,BP.000.MEDICINES USED FOR BENIGN PROSTATE HYPERPLASIA
+6,Hydroxypropyl Methylcellulose (Artificial tears),Eye drop: 1%,BP.000.MEDICINES USED FOR BENIGN PROSTATE HYPERPLASIA
+7,Sodium Chloride,Eye drop: 5%,BP.000.MEDICINES USED FOR BENIGN PROSTATE HYPERPLASIA
+1,Chloramphenicol + Dexamethasone,"Eye drops, 0.5% +0.1%",OP.500.Anti-infective /Anti-inflammatory combinations
+2,Ciprofloxacin + Dexamethasone,"Eye Suspension, 0.3%, 0.1%",OP.500.Anti-infective /Anti-inflammatory combinations
+3,Oxytetracycline Hydrochloride + Hydrocortisone Acetate + Polymixin B sulphate,"Eye drops, 5mg +15mg + 10,000U/ml",OP.500.Anti-infective /Anti-inflammatory combinations
+1,Tetracaine Hydrochloride,Eye drops: 0.5%,OP.600. Topical Anesthetics
+2,Proparacaine,Eye drop: 0.5%,OP.600. Topical Anesthetics
+1,Flurbiprofen,Eye drops: 0.03%,OP.700.Ophthalmic Analgesics
+1,Fluorescein sodium,Eye paper (sterile strip),OP.800.Diagnostic and Miscellaneous Agent
+2,Povidone Iodine,"Eye drops: 5%,",OP.800.Diagnostic and Miscellaneous Agent
+1,Clotrimazole,Solution (ear drops): 1%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+2,Miconazole,Oral gel: 25mg/ml,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+3,Nystatin,Suspention: 100000 u/ml,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+4,Hydrogen Peroxide,Solution: 3%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+5,Ciprofloxacin,Ear drop: 0.3%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+6,Chlorhexidine,Solution: 0.12%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+7,Lidocaine,Spray (Hydrochloride): 4%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+8,Xylometazoline,"Solution (Nose drops) : 0.05%, 0.1%","EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+9,Silver nitrate,Solution : 0.75%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+10,Mometasone,Nasal spray : 0.1mg,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+11,Fluticasone,Nasal spray : 0.05mg/spray,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+12,Saline spray,Isotonic : 0.9% | Hypertonic : 3%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+13,Triamcinolone acetonide,Oral paste : 0.1%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+14,Acetic acid,Solution : 2%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+15,Betahistine,Tablet : 24mg,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+16,Pilocarpine,Tablet : 5 mg,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+17,Oxytetracycline Hydrochloride + Hydrocortisone Acetate + Polymixin B sulphate,"Ear drops, 5mg +15mg + 10,000U/ml | Ointment: 1%","EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+3,Miconazole,Cream: 2%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+4,Benzyl Benzoate,Lotion: 25%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+5,Ganciclovir,Tablet: 500mg,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+6,Cephalexin,Oral liquid: 250mg/5ml suspension,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+7,Mupirocin,Cream: 2%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+8,Nitrofurazone,"Ointment: 30gm, 45gm","EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+9,Fusidic Acid,Cream: 2% | Ointment: 2%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+10,Sulfur dioxide,Ointment: 10%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+11,Silver sulfadiazine,Cream: 1%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+12,Permethrin,Cream: 5% w/w,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+13,Metronidazole,"Cream: 0.75 % w/w, 1%w/w","EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+14,Ketoconazole,Shampoo: 2%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+15,Paromomycin,Cream: 15%,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+16,Terbinafine Hydrochloride (Access),Cream: 1% | Tablet: 250mg,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+17,Zinc sulphate,Tablet: 20mg,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+18,Ascorbic Acid (Vitamine C),Tablet: 500mg,"EN.000 EAR, NOSE AND THROAT PREPARATIONS"
+1,Betamethasome Valerate,Cream: 0.1% | Ointment: 0.1%,"DE.200 Anti-inflammatories, Topical"
+2,Betamethasone Dipropionate,"Cream: 0.025% w/w, 0.05%","DE.200 Anti-inflammatories, Topical"
+3,Hydrocortisone Acetate,"Cream: 1% | Ointment, 1%","DE.200 Anti-inflammatories, Topical"
+4,Mometasone furaoate,Cream: 0.1% | Ointment: 0.1%,"DE.200 Anti-inflammatories, Topical"
+5,Clobetasol propionate,Cream: 0.05%,"DE.200 Anti-inflammatories, Topical"
+6,Triamcinolone Acetonide,Cream: 0.1%w/w | Paste: 0.1%w/w,"DE.200 Anti-inflammatories, Topical"
+7,Methyl Salicylate,Ointment: 25%w/w,"DE.200 Anti-inflammatories, Topical"
+8,Propranolol,"Tablet: 5mg, 10mg","DE.200 Anti-inflammatories, Topical"
+9,Tacrolimus,"Tablet: 25mg, 50mg","DE.200 Anti-inflammatories, Topical"
+1,Benzoyl Peroxide,"Gel: 2.5%, 5%, 10% | Solution, 2.5%, 5, 10%",DE.300 Keratolytic/Caustics and Antiacne Agents
+2,Salicylic Acid,"Ointment, 2%, 5%, 10%",DE.300 Keratolytic/Caustics and Antiacne Agents
+3,Urea,"Cream: 10% w/w, ointment: 10%w/w",DE.300 Keratolytic/Caustics and Antiacne Agents
+4,Retinoic Acid,"Cream: 0.025%w/w, | Gel: 0.01%, | Lotion: 0.025%, | Ointment: 0.05%",DE.300 Keratolytic/Caustics and Antiacne Agents
+5,Clindamycin,"Lotion: 1%w/w, | Gel: 1%w/w",DE.300 Keratolytic/Caustics and Antiacne Agents
+6,Azelaic Acid,Cream: 20%w/w,DE.300 Keratolytic/Caustics and Antiacne Agents
+7,Isotretinoin,"Capsule: 10mg, 20mg",DE.300 Keratolytic/Caustics and Antiacne Agents
+8,Coal tar,Ointment: 5%w/w,DE.300 Keratolytic/Caustics and Antiacne Agents
+9,Hydroquinone,"Topical solution :2%,4%",DE.300 Keratolytic/Caustics and Antiacne Agents
+1,Calcipotriol,"Cream, Ointment (scalp application), 0.005%",DE.400 Medicines for Psoriasis and Eczema
+2,Acitretin,Tablet: 10mg,DE.400 Medicines for Psoriasis and Eczema
+3,Dithranol,"Paste, 1%; Scalp application, 0.25%, 0.5%",DE.400 Medicines for Psoriasis and Eczema
+4,Ichthammol,Ointment: 10%w/w,DE.400 Medicines for Psoriasis and Eczema
+5,Sun screen,with SpF 30+ (UVA + UVB block,DE.400 Medicines for Psoriasis and Eczema
+6,Zinc Oxide,Paste: 20%w/w,DE.400 Medicines for Psoriasis and Eczema
+1,Calamine,Lotion: 15% w/v,DE.500 Antipruritics
+1,Ethyl Alcohol,Solution: 70% w/v,DE.600 Antiseptic  agents
+2,Alcohol based hand rub,Solution: containing ethanol 80% V /V | Solution: containing isopropyl alcohol 75% V/V,DE.600 Antiseptic  agents
+3,Chlorhexidine,Solution or gel: 7.1% (digluconate) delivering 4% | chlorhexidine (for umbilical cord care),DE.600 Antiseptic  agents
+4,Iodine,Solution: 2% V/V,DE.600 Antiseptic  agents
+5,Povidone Iodine,Solution: 10%V/V,DE.600 Antiseptic  agents
+6,Gentian Violet,Solution: 1%v/v,DE.600 Antiseptic  agents
+1,"Hepatitis B Vaccine, inactivated","Injection: 16.5% in 2ml, 10ml",DE.600 Antiseptic  agents
+2,Hepatitis B Vaccine Recombinant Yeast DNA,Injection: 0.5ml,DE.600 Antiseptic  agents
+3,BCG Vaccine,"Injection: 500,000 organisms /ml in 0.05ml, 0.1ml",DE.600 Antiseptic  agents
+4,Human Papiloma virus Vaccine quadrivalent,Injection : 0.5ml,DE.600 Antiseptic  agents
+5,Measles Virus Vaccine Live Attenuated,Injection: 0.5ml,DE.600 Antiseptic  agents
+6,"Pentavalent (Diphtheria, Pertusis, Tetanus, Haemophilus Influenzae B, and Hepatitis B) Vaccine",Injection : 0.5ml,DE.600 Antiseptic  agents
+7,"Oral Poliomyelitis Vaccine, Trivalent Type I, II, and III","Oral: 0.5ml, 10ml, and 20ml",DE.600 Antiseptic  agents
+8,"Inactivated Poliomyelitis Vaccine (IPV), Trivalent Type I, II, and III",Injection: 0.5ml,DE.600 Antiseptic  agents
+9,Rabies (Human Diploid Cell) Vaccine,Injection: 2.5IU/ml in 2ml,DE.600 Antiseptic  agents
+10,"Rota Virus Vaccine Monovalent (P1 [8], G1]), Bivalent, Pentavalent (G1, 2, 3, 4, 5 and P1 [8])",Oral solution: 2ml,DE.600 Antiseptic  agents
+11,Tetanus Toxoid,"Injection: 0.5ml, 1ml",DE.600 Antiseptic  agents
+12,Pneumococcal conjugate vaccine (PCV),Injection: 0.5ml,DE.600 Antiseptic  agents
+13,Influenza vaccine (seasonal),"Injection: 0.25 mL, 0.5ml, 5ml",DE.600 Antiseptic  agents
+1,Anti-Rho (D) human Immunoglobulin,Injection: 300mcg,DE.600 Antiseptic  agents
+2,Human Antirabies Immunoglobulin,Injection: 150 IU/ml in 2ml,DE.600 Antiseptic  agents
+3,Anti-tetanus human immunoglobulin,Injection: 250IU/ml in vial.,DE.600 Antiseptic  agents
+4,"Tetanus Antitoxin, Equine","Injection: 1,500IU",DE.600 Antiseptic  agents
+5,Hepatitis B immunoglobulin,100IU/mL,DE.600 Antiseptic  agents
+6,"Immune Serum Globulin, Human (Gamma Globulin, Human)","Injection, 16.5% in 2ml, 5ml",DE.600 Antiseptic  agents
+1,Acetylcysteine,Injection: 200mg/ml in 10ml ampoule,AN.000 ANTIDOTES AND OTHER SUBSTANCES USED IN POISONING
+2,Activated Charcoal,"Powder for reconstitution: 15gm/120ml, 25gm",AN.000 ANTIDOTES AND OTHER SUBSTANCES USED IN POISONING
+3,Calcium Gluconate,Injection: 10% in 10ml ampoule,AN.000 ANTIDOTES AND OTHER SUBSTANCES USED IN POISONING
+4,Deferoxamine Mesylate,Powder for injection: 500mg in vial,AN.000 ANTIDOTES AND OTHER SUBSTANCES USED IN POISONING
+5,"Digoxin Immune (Fab Ovine) Digoxin-specific, antibody fragments",Powder for injection: 40mg,AN.000 ANTIDOTES AND OTHER SUBSTANCES USED IN POISONING
+6,Flumazenil,Injection: 0.5 mg/5 mL in ampoule,AN.000 ANTIDOTES AND OTHER SUBSTANCES USED IN POISONING
+7,Lipid emulsion,Injection: 20% (200 to 500mL),AN.000 ANTIDOTES AND OTHER SUBSTANCES USED IN POISONING
+8,Phytomenadione (Vitamin K1),"Injection, 1mg/0.5ml, 10mg/ml in 1ml ampoule | Tablet, 10mg",AN.000 ANTIDOTES AND OTHER SUBSTANCES USED IN POISONING
+9,Sodium Nitrite,Injection: 3% (30mg/ml),AN.000 ANTIDOTES AND OTHER SUBSTANCES USED IN POISONING
+10,Physostigmine,Injection: 1mg/ml,AN.000 ANTIDOTES AND OTHER SUBSTANCES USED IN POISONING
+11,Naloxone hydrochloride,Injection: 0.4mg in 1ml ampule,AN.000 ANTIDOTES AND OTHER SUBSTANCES USED IN POISONING
+12,Pralidoxime Chloride,Powder for injection: 1000mg/vial | Tablet: 500mg,AN.000 ANTIDOTES AND OTHER SUBSTANCES USED IN POISONING
+13,Protamine sulphate,"Injection: 10mg/ml in 5ml ampoule; | 250mg (10mg/ml), 25ml",AN.000 ANTIDOTES AND OTHER SUBSTANCES USED IN POISONING
+14,Snake Venom Antiserum Polyvalent,Injection: 10ml,AN.000 ANTIDOTES AND OTHER SUBSTANCES USED IN POISONING
+1,Amidotrizoate (Urografin),Solution for injection: 76%,RC.000 RADIOCONTRAST MEDIA
+2,Barium Sulfate,Powder in Sachets,RC.000 RADIOCONTRAST MEDIA
+3,Iopamidol,"Solution for injection: 370mg/50ml, | Iohexol is can be an alternative",RC.000 RADIOCONTRAST MEDIA
+4,Gadobutrol,Solution for injection: 1mmol/ml,RC.000 RADIOCONTRAST MEDIA
+5,Gadodiamide,Solution for injection: 287 mg/mL,RC.000 RADIOCONTRAST MEDIA
+1,Water for Injection,"In 2ml, 5ml, 10ml vial",MI.000 MISCELLANEOUS
+2,Liquid nitrogen,Solution : 997ml/1litre |,MI.000 MISCELLANEOUS
