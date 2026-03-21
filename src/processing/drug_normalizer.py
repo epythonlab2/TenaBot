@@ -75,12 +75,11 @@ def normalize_drugs(df: pd.DataFrame) -> pd.DataFrame:
     for row in df.to_dict(orient="records"):
 
         base_drugs = split_combination_drug(row["generic_name"])
-
         dosage_forms = extract_dosage_forms(row["dosage"])
 
         normalized_rows.append(
             {
-                **row._asdict(),
+                **row,
                 "base_drugs": base_drugs,
                 "combination": len(base_drugs) > 1,
                 "dosage_forms": dosage_forms,
