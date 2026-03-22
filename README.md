@@ -29,8 +29,10 @@ pip install -r requirements.txt
 ```
 
 ## Data Pipeline
-![alt text](screenshot/image.png)
-![alt text](screenshot/image-1.png)
+![Raw Extraction](screenshots/image.png)
+
+
+![Structured Dataset](screenshots/image-1.png)
 
 ## Usage
 ### Start API Backend
