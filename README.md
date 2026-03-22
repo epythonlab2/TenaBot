@@ -28,18 +28,10 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## Project Structure
+## Data Pipeline
 ```
-TenaBot/
-├── data/               # Raw and processed medicine data
-├── notebooks/          # Data analysis and AI prompt experiments
-├── src/                # Source code: ingestion, preprocessing, AI, API
-├── models/             # Saved models or embeddings
-├── app/            # Frontend application
-├── tests/              # Unit and integration tests
-├── docs/               # Documentation and diagrams
-├── README.md
-└── requirements.txt
+![alt text](image.png)
+![alt text](image-1.png)
 ```
 
 ## Usage
