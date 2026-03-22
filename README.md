@@ -29,10 +29,8 @@ pip install -r requirements.txt
 ```
 
 ## Data Pipeline
-```
-![alt text](image.png)
-![alt text](image-1.png)
-```
+![alt text](screenshot/image.png)
+![alt text](screenshot/image-1.png)
 
 ## Usage
 ### Start API Backend
